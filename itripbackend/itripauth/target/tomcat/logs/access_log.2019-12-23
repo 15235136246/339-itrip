@@ -1,0 +1,2 @@
+127.0.0.1 - - [23/Dec/2019:08:59:01 +0800] "POST /auth/api/dologin HTTP/1.0" 200 150 http-bio-8082-exec-1 319
+0:0:0:0:0:0:0:1 - - [23/Dec/2019:09:14:35 +0800] "GET /biz/api/hotel/querytradearea/2 HTTP/1.1" 404 - http-bio-8082-exec-1 0
